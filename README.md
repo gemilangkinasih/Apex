@@ -22,7 +22,6 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 ### WORK DI OS
 - UBUNTU 18 / 20
 - DEBIAN 9 / 10
-- 
 
 ### SUPPORT PORT
 ```
