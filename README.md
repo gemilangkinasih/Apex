@@ -55,7 +55,7 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img src="https://github.com/gemilangkinasih/Apex/assets/121762056/e4e0c48f-dd1d-4395-a0b7-04af0f3829db" width=100%>
+<img width="50%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/cfc25f09-0cee-49de-81a1-28fde48c1c00">
 
 ## `WARNING !`
 GK BOLEH NYOLONG, NANTI KENA HACKING DDOS NANGES
