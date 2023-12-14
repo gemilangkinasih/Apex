@@ -54,11 +54,9 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 ```
 
 ### TAMPILAN MENU SCRIPT
-<img width="100%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/d6e77e25-87f2-47e7-a700-4fdd2ebd6b98">
+![Screenshot_2023-12-14-16-58-19-32_61c78dc80ee02b53007c815fefe993e3](https://github.com/gemilangkinasih/Apex/assets/121762056/fbb99ce6-45a7-40d3-a3dd-e648534c6c86)
 
 
 ### `WARNING !`
-```
-JANGAN DICOLONG
+ANGAN DICOLONG
 NANTI KENA HACKING DDOS NANGES
-```
