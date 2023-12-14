@@ -1,9 +1,9 @@
-# UPGRADE FOR DEBIAN
+### UPGRADE FOR DEBIAN
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 ```
 
-# UPGRADE FOR UBUNTU
+###  UPGRADE FOR UBUNTU
 ```
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
@@ -12,10 +12,10 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
-# Wajib Izin IP, Silahkan Hubungi Admin
-Whatsapp = wa.me/+62898488003
+### Wajib Izin IP, Silahkan Hubungi Admin
+Whatsapp = https://wa.me/+62898488003 || Telegram : https://t.me/gemilangkinasih
 
-# UPDATE SCRIPT
+### UPDATE SCRIPT
 ```
 wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && chmod +x update.sh && ./update.sh
 ```
