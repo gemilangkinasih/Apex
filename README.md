@@ -17,9 +17,8 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-<a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-
-<a href="https://t.me/gemilangkinasih" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue">
+Gemilang Kinasih :
+<br><br><a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
