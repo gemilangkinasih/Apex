@@ -17,9 +17,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-Gemilang Kinasih Information :
-- Whatsapp = https://wa.me/+628984880039
-- Telegram = https://t.me/gemilangkinasih
+<a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"> <a href="https://t.me/gemilangkinasih" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue">
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
@@ -63,4 +61,4 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 <img width="100%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/cfc25f09-0cee-49de-81a1-28fde48c1c00">
 
 ## `! WARNING !`
-JANGAN DICOLONG, NANTI KENA HACKING DDOS NANGES
+Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke admin developer
