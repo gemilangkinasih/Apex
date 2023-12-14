@@ -1,23 +1,28 @@
 ## UPGRADE FOR DEBIAN
+Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 ```
 
 ##  UPGRADE FOR UBUNTU
+Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
 ```
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
 ## INSTALL SCRIPT 
+Masukkan perintah dibawah untuk menginstall Autoscript Premium by Gemilang Kinasih
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
+Gemilang Kinasih Information :
 - Whatsapp = https://wa.me/+628984880039
-- Telegram : https://t.me/gemilangkinasih
+- Telegram = https://t.me/gemilangkinasih
 
 ## UPDATE SCRIPT
+Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
 wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && chmod +x update.sh && ./update.sh
 ```
@@ -57,5 +62,5 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 ## TAMPILAN MENU SCRIPT
 <img width="100%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/cfc25f09-0cee-49de-81a1-28fde48c1c00">
 
-## `WARNING !`
-GK BOLEH NYOLONG, NANTI KENA HACKING DDOS NANGES
+## `! WARNING !`
+JANGAN DICOLONG, NANTI KENA HACKING DDOS NANGES
