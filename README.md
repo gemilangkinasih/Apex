@@ -30,6 +30,12 @@ wget -q https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/update.sh && c
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
 
+## FITUR TAMBAHAN
+- Pemasangan yang dinamis
+- User Details Akun
+- Auto delete expired
+- Auto reboot vps server
+
 ## PORT INFO
 ```
 - TROJAN WS 443
