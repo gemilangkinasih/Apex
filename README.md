@@ -14,7 +14,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-- Whatsapp = https://wa.me/+62898488003
+- Whatsapp = https://wa.me/+628984880039
 - Telegram : https://t.me/gemilangkinasih
 
 ## UPDATE SCRIPT
